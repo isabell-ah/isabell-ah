@@ -1,4 +1,4 @@
-# Hi there, I'm Sharon Isabellah! 👋
+# Hi there, I'm Sharon Isabela! 👋
 
 ## 🚀 About Me
 I am a passionate **Backend Engineer** with expertise in building scalable and efficient server-side applications.  
@@ -14,8 +14,6 @@ I'm currently enhancing my skills in **AWS Cloud, Python, and Bitcoin Developmen
 - **Version Control:** Git, GitHub  
 - **Operating Systems:** Linux, Windows  
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isabell-ah&show_icons=true&theme=radical)
 
 ## 🌱 Currently Learning
 - Advanced **API Development** and **Microservices Architecture**  
