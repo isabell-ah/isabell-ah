@@ -22,7 +22,7 @@ RESTful APIs, gRPC Microservices Architecture, GraphQL (learning)
 MongoDB, MySQL, SQLite
 
 **Cloud & DevOps:**  
-AWS (Cloud Practitioner Certified), CI/CD basics, Linux (Ubuntu)
+AWS (Cloud Practitioner Certified), CI/CD basics, Linux (Ubuntu), Terraform, Dynatrace
 
 **Version Control:**  
 Git, GitHub
