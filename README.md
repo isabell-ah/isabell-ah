@@ -43,9 +43,4 @@ Git, GitHub
 ---
 
 
-## 📫 Connect With Me
-- **LinkedIn:** [Sharon Isabellah](https://www.linkedin.com/in/sharon-isabellah/) 
-
----
-
-💡 *Always learning, always building. Let's connect and create solutions that matter!* 🚀
+💡 *Always learning, always building. Let's connect and create solutions that matter!* 
