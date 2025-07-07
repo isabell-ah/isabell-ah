@@ -19,7 +19,7 @@ JavaScript (Node.js, Express.js, EJS), Python (Flask), React.js, Tailwind CSS
 RESTful APIs, gRPC Microservices Architecture, GraphQL (learning)
 
 **Databases:**  
-MongoDB, MySQL, Postgrell
+MongoDB, MySQL, Postgress
 
 **Cloud & DevOps:**  
 AWS (Cloud Practitioner Certified), CI/CD basics, Linux (Ubuntu), Terraform, Dynatrace
