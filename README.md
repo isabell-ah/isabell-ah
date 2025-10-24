@@ -4,7 +4,7 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 I’m a passionate backend developer who builds secure and scalable APIs and server-side applications.  
 Currently exploring fintech solutions, cloud platforms, and Bitcoin's Lightning Network to solve real-world problems.
 
@@ -29,7 +29,7 @@ Git, GitHub
 
 ---
 
-### 🌱 Currently Learning
+###  Currently Learning
 - Advanced API Development & Microservices
 - AWS Cloud Architecting
 - Bitcoin & Lightning Network Development
