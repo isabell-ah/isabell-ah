@@ -1,5 +1,5 @@
 # Hi, I'm Sharon Isabela 
-**Backend Developer & API Integrations · DevOps & Cloud Engineer · SRE**  
+**Backend Developer & API Integrations · Infrastructure Engineering*  
 📍 Nairobi, Kenya 🇰🇪
 
 ---
