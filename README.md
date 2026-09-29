@@ -5,9 +5,9 @@
 ---
 
 ### About Me
-I build backend systems and APIs, integrate third-party services and payment platforms, and manage cloud and on-premise infrastructure. I work across the full lifecycle of a system — from writing and securing APIs to deploying, monitoring, and keeping everything running reliably in production.
+I build backend systems and APIs, integrate third-party services and payment platforms, and manage cloud and on-premise infrastructure. I work across the full lifecycle of a system — from writing and securing APIs to deploying, monitoring, and keeping everything running reliably in production. I have taken a particular interest in API Integration, NetDevOps, and Infrastructure Engineering
 
-I have taken a particular interest in API Integration, NetDevOps, and Infrastructure Engineering
+
 ---
 
 ### 🔧 Skills & Technologies
